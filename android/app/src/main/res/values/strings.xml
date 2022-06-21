@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">findmypetsg</string>
+    <string name="facebook_app_id">554715689447783</string>
+    <string name="fb_login_protocol_scheme">fb554715689447783</string>
+    <string name="facebook_client_token">03a67404735b16c9234ef2694c836faf</string>
+</resources>
